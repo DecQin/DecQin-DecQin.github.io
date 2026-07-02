@@ -1,6 +1,6 @@
 author:
   # Biographic information
-  avatar           : "qjy.png"
+  avatar           : "./images/qjy.png"
   name             : "Jinyuan Qin(秦瑾源)"
   pronouns         : # example: "she/her"  
   bio              : "Hefei University of Technology"
